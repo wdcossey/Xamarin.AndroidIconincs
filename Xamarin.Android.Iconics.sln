@@ -1,0 +1,96 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Library", "Library", "{85D29AF3-4AA0-4A77-B611-7D07E164C3FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App", "App", "{303183B9-85AE-469B-A2EB-A3EC6C97F4BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Community-Material", "Community-Material", "{55077728-9638-423F-8BA2-E2CA29863C93}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Google-Material", "Google-Material", "{B44438E9-2F96-4169-B119-001F9DDEBC64}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Meteocons", "Meteocons", "{9D03C8DE-8C60-4E91-8DD6-15AB31D8A9EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Octicons", "Octicons", "{79A969BC-1748-43E2-B30A-C99DEE338815}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Typeface-Libraries", "Typeface-Libraries", "{DEFA0663-CAC8-488F-B38C-0235F78C0BC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "App\App.csproj", "{DA40E5FA-557B-439D-A657-B80FCE2A02CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Android.Iconics", "Xamarin.Android.Iconics\Xamarin.Android.Iconics.csproj", "{8121142E-6BDB-4536-B26A-C2FC2889C6E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Android.Iconics.CommunityMaterial", "Xamarin.Android.Iconics.CommunityMaterial\Xamarin.Android.Iconics.CommunityMaterial.csproj", "{BF151384-B640-48C0-AF65-11605BC9AA1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Android.Iconics.GoogleMaterial", "Xamarin.Android.Iconics.GoogleMaterial\Xamarin.Android.Iconics.GoogleMaterial.csproj", "{3ADEA674-0C3A-45BE-AF0C-C510A5BB035A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Android.Iconics.Meteocons", "Xamarin.Android.Iconics.Meteocons\Xamarin.Android.Iconics.Meteocons.csproj", "{FA504CCF-F09A-4F38-9504-A9B0E6CA96F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Android.Iconics.Octicons", "Xamarin.Android.Iconics.Octicons\Xamarin.Android.Iconics.Octicons.csproj", "{CFEA7499-52B5-41CB-BAA0-D3E3EEECD36B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dependencies", "Dependencies", "{C5CB1A7D-99CA-4ABB-9F24-8D45A1088B0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.xamarin.component.MaterialDrawer", "..\Xamarin.MaterialDrawer\com.xamarin.component.MaterialDrawer\com.xamarin.component.MaterialDrawer.csproj", "{24B19BC7-782A-4184-9235-76367385EC6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Android.Iconics.Shared", "Xamarin.Android.Iconics.Shared\Xamarin.Android.Iconics.Shared.csproj", "{907BE783-3E1C-447E-9C82-4BB60E2C1F2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA40E5FA-557B-439D-A657-B80FCE2A02CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA40E5FA-557B-439D-A657-B80FCE2A02CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA40E5FA-557B-439D-A657-B80FCE2A02CE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DA40E5FA-557B-439D-A657-B80FCE2A02CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA40E5FA-557B-439D-A657-B80FCE2A02CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA40E5FA-557B-439D-A657-B80FCE2A02CE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8121142E-6BDB-4536-B26A-C2FC2889C6E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8121142E-6BDB-4536-B26A-C2FC2889C6E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8121142E-6BDB-4536-B26A-C2FC2889C6E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8121142E-6BDB-4536-B26A-C2FC2889C6E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF151384-B640-48C0-AF65-11605BC9AA1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF151384-B640-48C0-AF65-11605BC9AA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF151384-B640-48C0-AF65-11605BC9AA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF151384-B640-48C0-AF65-11605BC9AA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ADEA674-0C3A-45BE-AF0C-C510A5BB035A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADEA674-0C3A-45BE-AF0C-C510A5BB035A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADEA674-0C3A-45BE-AF0C-C510A5BB035A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADEA674-0C3A-45BE-AF0C-C510A5BB035A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA504CCF-F09A-4F38-9504-A9B0E6CA96F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA504CCF-F09A-4F38-9504-A9B0E6CA96F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA504CCF-F09A-4F38-9504-A9B0E6CA96F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA504CCF-F09A-4F38-9504-A9B0E6CA96F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFEA7499-52B5-41CB-BAA0-D3E3EEECD36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFEA7499-52B5-41CB-BAA0-D3E3EEECD36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFEA7499-52B5-41CB-BAA0-D3E3EEECD36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFEA7499-52B5-41CB-BAA0-D3E3EEECD36B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24B19BC7-782A-4184-9235-76367385EC6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B19BC7-782A-4184-9235-76367385EC6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B19BC7-782A-4184-9235-76367385EC6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B19BC7-782A-4184-9235-76367385EC6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{907BE783-3E1C-447E-9C82-4BB60E2C1F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907BE783-3E1C-447E-9C82-4BB60E2C1F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907BE783-3E1C-447E-9C82-4BB60E2C1F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907BE783-3E1C-447E-9C82-4BB60E2C1F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{55077728-9638-423F-8BA2-E2CA29863C93} = {DEFA0663-CAC8-488F-B38C-0235F78C0BC9}
+		{B44438E9-2F96-4169-B119-001F9DDEBC64} = {DEFA0663-CAC8-488F-B38C-0235F78C0BC9}
+		{9D03C8DE-8C60-4E91-8DD6-15AB31D8A9EC} = {DEFA0663-CAC8-488F-B38C-0235F78C0BC9}
+		{79A969BC-1748-43E2-B30A-C99DEE338815} = {DEFA0663-CAC8-488F-B38C-0235F78C0BC9}
+		{DA40E5FA-557B-439D-A657-B80FCE2A02CE} = {303183B9-85AE-469B-A2EB-A3EC6C97F4BC}
+		{8121142E-6BDB-4536-B26A-C2FC2889C6E9} = {85D29AF3-4AA0-4A77-B611-7D07E164C3FD}
+		{BF151384-B640-48C0-AF65-11605BC9AA1E} = {55077728-9638-423F-8BA2-E2CA29863C93}
+		{3ADEA674-0C3A-45BE-AF0C-C510A5BB035A} = {B44438E9-2F96-4169-B119-001F9DDEBC64}
+		{FA504CCF-F09A-4F38-9504-A9B0E6CA96F6} = {9D03C8DE-8C60-4E91-8DD6-15AB31D8A9EC}
+		{CFEA7499-52B5-41CB-BAA0-D3E3EEECD36B} = {79A969BC-1748-43E2-B30A-C99DEE338815}
+		{24B19BC7-782A-4184-9235-76367385EC6D} = {C5CB1A7D-99CA-4ABB-9F24-8D45A1088B0A}
+		{907BE783-3E1C-447E-9C82-4BB60E2C1F2F} = {85D29AF3-4AA0-4A77-B611-7D07E164C3FD}
+	EndGlobalSection
+EndGlobal
